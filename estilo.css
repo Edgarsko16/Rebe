@@ -230,3 +230,7 @@ footer {
   width: 30px;
   height: 30px;
 }
+
+.logo-img{
+  border-radius: 45%;
+}
